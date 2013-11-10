@@ -50,3 +50,4 @@ group :development, :test do
 end
 gem 'bootstrap-sass', '2.3.1.3'
 gem 'therubyracer'
+gem 'bcrypt-ruby' ,'~>3.0.0'
